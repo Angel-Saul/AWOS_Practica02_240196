@@ -64,3 +64,27 @@ validacionUsuariosLogueados();
 hayUsuariosLogueados = 52.5;
 console.log("Test 3");
 validacionUsuariosLogueados();
+
+// 3. Number (enteros y decimales)
+console.warn("3.- NUMBER (Numerico)");
+/* Es iimportante saber que Java Script a diferencia de otros lenguajes, no diferencia los datos de tipo numerico, 
+lo que para otro lenguajes de programacion lo que un ENTERO (Int), Flotante (Float), DECIMAL, DOBLE (Double) pera el
+solo son numeros */
+
+let userID_Owner = 777
+let pricePropety = 1250000.50
+let latGPS = 20.240508
+let longGPS = -97.052881
+let altGPS = 1100
+
+console.log(`Los valores de las variables declaradas para los datos de la propiedad son: ID del Usuario = ${userID_Owner},
+    Precio de la propiedad = ${typeof(pricePropety)},
+    Latitud (GPS) = ${typeof(latGPS)},
+    Longitud (GPS) = ${typeof(longGPS)}, 
+    Altitud (GPS) = ${typeof(altGPS)}`);
+
+console.log(`Los tippos de datos de las variables declaradas para los datos de la propiedad son: ID del Usuario = ${userID_Owner},
+    Precio de la propiedad = ${typeof(pricePropety)},
+    Latitud (GPS) = ${typeof(latGPS)},
+    Longitud (GPS) = ${typeof(longGPS)}, 
+    Altitud (GPS) = ${typeof(altGPS)}`);
