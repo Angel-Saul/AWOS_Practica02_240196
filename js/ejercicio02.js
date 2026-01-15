@@ -220,7 +220,7 @@ let lastLogin = todayDate;
 
 console.warn("7. NULL (Nulo)");
 console.log(`
-    El usuario: ${usuarioLogeado}, tipo de dato: ${typeof(usuarioLogeado)}
+    El usuario: ${usuarioLogueado}, tipo de dato: ${typeof(usuarioLogueado)}
     Fecha ultimo login: ${todayDate} tipo de dato: ${typeof(todayDate)}
     Es nuevo usuario: ${isNewUser} tipo de dato: ${typeof(isNewUser)}
     Es usuario premium: ${isPremiumUser} tipo de dato: ${typeof(isPremiumUser)} `);
