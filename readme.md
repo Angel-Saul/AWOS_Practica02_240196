@@ -8,7 +8,7 @@ En la siguiente práctica se realizarán pequeños ejercicios de repaso para com
 ### Consideraciones
 
 <p align="justify">
-Esta práctica será desarrollada con estructuras ramales, para el estudiante comience con la manipulación correcta de ramas en el contexto de control de versiones y desarrollo colaborativo utilizando Git y GitHub.
+Esta práctica será desarrollada con estructuras ramales, para el estudiante comience con la manipulación correcta de ramas en el contexto de control de versiones y desarrollo colaborativo utilizando Git y GitHub
 </p>
 
 
@@ -18,4 +18,4 @@ Esta práctica será desarrollada con estructuras ramales, para el estudiante co
 
 |No.|Descripción|Potenciador|Estatus|
 |---|---|---|---|
-|1| Declaración de variables| 1 | 💻En progreso |
+|1| Declaración de variables| 1 | ✅ Finalizado |
