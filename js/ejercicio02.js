@@ -238,7 +238,7 @@ else
 isPremiumUser=true;
 console.log("Datos despues de validacion")
 console.log(`
-    El usuario: ${usuarioLogeado}, tipo de dato: ${typeof(usuarioLogeado)}
+    El usuario: ${usuarioLogueado}, tipo de dato: ${typeof(usuarioLogueado)}
     Fecha ultimo login: ${todayDate} tipo de dato: ${typeof(todayDate)}
     Es nuevo usuario: ${isNewUser} tipo de dato: ${typeof(isNewUser)}
     Es usuario premium: ${isPremiumUser} tipo de dato: ${typeof(isPremiumUser)} `);
