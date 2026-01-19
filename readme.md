@@ -20,3 +20,4 @@ Esta práctica será desarrollada con estructuras ramales, para el estudiante co
 |---|---|---|---|
 |1| Declaración de variables| 1 | ✅ Finalizado |
 |2| Tipos de datos | 7 | ✅ Finalizado |
+|3| Funciones | 7 | ✅ Finalizado |
